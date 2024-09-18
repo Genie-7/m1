@@ -1,1 +1,0 @@
-# fashionmnist-superpixel
