@@ -1,0 +1,37 @@
+name: numpy_env
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.21.1
+  - ca-certificates=2024.7.4
+  - certifi=2024.7.4
+  - cffi=1.16.0
+  - cycler=0.12.1
+  - dask-core=2024.7.1
+  - freetype=2.12.1
+  - kiwisolver=1.4.5
+  - matplotlib=3.5.3
+  - networkx=3.2
+  - openjpeg=2.5.0
+  - openssl=3.3.1
+  - pillow=9.4.0
+  - pip=24.2
+  - pycparser=2.22
+  - pywavelets=1.6.0
+  - pyyaml=6.0.1
+  - pytorch=1.12.0
+  - torchvision=0.13.0
+  - python-dateutil=2.9.0
+  - requests=2.32.3
+  - scikit-image=0.19.3
+  - scipy=1.9.1
+  - setuptools=71.0.4
+  - six=1.16.0
+  - tk=8.6.13
+  - typing_extensions=4.12.2
+  - wheel=0.43.0
+  - xz=5.2.6
+  - yaml=0.2.5
+  - zipp=3.19.2
